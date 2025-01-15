@@ -1,2 +1,2 @@
 # connect-local
-Translations
+Translations for UI (both mobile and Web)

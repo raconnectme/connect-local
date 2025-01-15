@@ -1,8 +1,18 @@
 {
+    "fields": {
+        "email": "Email address",
+        "password": "Password",
+        "charMinLimit": "{{chars}}+ characters",
+        "or": "Or"
+    },
     "buttons": {
-        "login": "Login"
+        "login": "Sign in"
+    },
+    "validator": {
+        "required": "Required"
     },
     "texts": {
-        "singIn": "Sign in to your account"
+        "singIn": "Sign in to your account",
+        "forgotPassword": "Forgot password?"
     }
 }

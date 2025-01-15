@@ -1,8 +1,18 @@
 {
+    "fields": {
+        "email": "Электронная почта",
+        "password": "Пароль",
+        "charMinLimit": "{{chars}}+ символов",
+        "or": "Или"
+    },
     "buttons": {
-        "login": "Авторизоваться"
+        "login": "Войти"
+    },
+    "validator": {
+        "required": "Обязательно"
     },
     "texts": {
-        "singIn": "Войдите в свою учетную запись"
+        "singIn": "Войдите в свой профиль",
+        "forgotPassword": "Забыл пароль"
     }
 }

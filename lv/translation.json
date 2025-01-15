@@ -1,8 +1,18 @@
 {
+    "fields": {
+        "email": "E-pasts",
+        "password": "Parole",
+        "charMinLimit": "{{chars}}+ simboli",
+        "or": "Vai"
+    },
     "buttons": {
         "login": "Ielogoties"
     },
+    "validator": {
+        "required": "Obligāts"
+    },
     "texts": {
-        "singIn": "Ielogies savā profilā"
+        "singIn": "Ielogjies savā profilā",
+        "forgotPassword": "Aizmirsu parole"
     }
 }
