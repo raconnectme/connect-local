@@ -1,8 +1,8 @@
 {
     "buttons": {
-        "login": "Ielogoties"
+        "login": "Авторизоваться"
     },
     "texts": {
-        "singIn": "Ielogies savā profilā"
+        "singIn": "Войдите в свою учетную запись"
     }
 }

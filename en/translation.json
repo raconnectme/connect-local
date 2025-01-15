@@ -1,8 +1,8 @@
 {
     "buttons": {
-        "login": "Авторизоваться"
+        "login": "Login"
     },
     "texts": {
-        "singIn": "Войдите в свою учетную запись"
+        "singIn": "Sign in to your account"
     }
 }
