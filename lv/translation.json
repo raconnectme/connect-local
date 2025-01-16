@@ -12,7 +12,10 @@
         "required": "Obligāts"
     },
     "texts": {
-        "singIn": "Ielogjies savā profilā",
-        "forgotPassword": "Aizmirsu parole"
+        "singIn": "Ielogoties savā profilā",
+        "forgotPassword": "Aizmirsu parole",
+        "needHelp": "Vai vajag palīdzību?",
+        "noAccount": "Nav profila?",
+        "getStarted": "Sākt"
     }
 }
