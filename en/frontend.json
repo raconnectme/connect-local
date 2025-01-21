@@ -3,7 +3,7 @@
         "email": "Email address",
         "password": "Password",
         "charMinLimit": "{{chars}}+ characters",
-        "or": "Or"
+        "or": "OR"
     },
     "buttons": {
         "login": "Sign in"
