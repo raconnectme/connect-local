@@ -3,6 +3,7 @@
         "userNotFound": "User not found",
         "userIdDisabled": "User is disabled",
         "passwordMissing": "Password not set",
-        "wrongLogin": "Password or user name is wrong"
+        "wrongLogin": "Password or user name is wrong",
+        "forbidden": "Forbidden"
     }
 }

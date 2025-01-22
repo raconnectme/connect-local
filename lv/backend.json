@@ -3,6 +3,7 @@
         "userNotFound": "Lietotājs nav atrasts",
         "userIdDisabled": "Lietotājs ir atspējots",
         "passwordMissing": "Parole nav iestatīta",
-        "wrongLogin": "Parole vai lietotājvārds ir nepareizi"
+        "wrongLogin": "Parole vai lietotājvārds ir nepareizi",
+        "forbidden": "Aizliegts"
     }
 }
