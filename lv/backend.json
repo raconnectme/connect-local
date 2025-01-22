@@ -1,9 +1,11 @@
 {
     "errors": {
-        "userNotFound": "Lietotājs nav atrasts",
-        "userIdDisabled": "Lietotājs ir atspējots",
+        "userNotFound": "Lietotājs netika atrasts",
+        "userDisabled": "Lietotājs ir atslēgts",
         "passwordMissing": "Parole nav iestatīta",
-        "wrongLogin": "Parole vai lietotājvārds ir nepareizi",
-        "forbidden": "Aizliegts"
+        "wrongLogin": "Parole vai lietotāja vārds ir nepareizi",
+        "forbidden": "Aizliegts",
+        "missingOrg": "Organizācija netika atrasta",
+        "deviceDisabled": "Lietotāja ierīce ir atslēgta"
     }
 }

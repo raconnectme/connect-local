@@ -1,9 +1,11 @@
 {
     "errors": {
         "userNotFound": "User not found",
-        "userIdDisabled": "User is disabled",
+        "userDisabled": "User is disabled",
         "passwordMissing": "Password not set",
         "wrongLogin": "Password or user name is wrong",
-        "forbidden": "Forbidden"
+        "forbidden": "Forbidden",
+        "missingOrg":"Organization is not found",
+        "deviceDisabled": "User device is disabled"
     }
 }
