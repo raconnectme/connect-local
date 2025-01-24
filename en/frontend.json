@@ -21,5 +21,14 @@
     "alerts": {
         "genericError": "Something went wrong",
         "loginError": "Invalid username or password"
+    },
+    "rooted": {
+        "title": "Attention! Your device is rooted!",
+        "subtitle": "For security purposes, our application is not compatible with rooted devices. Please try a different device."
+    },
+    "updateRequired": {
+        "title": "Update required!",
+        "subTitle": "Please update application to continue",
+        "updateBtn": "Update"
     }
 }
