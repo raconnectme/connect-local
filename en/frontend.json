@@ -6,7 +6,8 @@
         "or": "OR"
     },
     "buttons": {
-        "login": "Sign in"
+        "login": "Sign in",
+        "update": "Update"
     },
     "validator": {
         "required": "Required"
