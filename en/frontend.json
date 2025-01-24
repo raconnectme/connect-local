@@ -17,5 +17,9 @@
         "needHelp": "Need help?",
         "noAccount": "Don't have an account?",
         "getStarted": "Get started"
+    },
+    "alerts": {
+        "genericError": "Something went wrong",
+        "loginError": "Invalid username or password"
     }
 }
