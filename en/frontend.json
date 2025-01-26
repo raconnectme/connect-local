@@ -31,5 +31,11 @@
         "title": "Update required!",
         "subTitle": "Please update application to continue",
         "updateBtn": "Update"
+    },
+    "menu": {
+        "home": "Home",
+        "calendar": "Calendar",
+        "chat": "Chat",
+        "more": "More"
     }
 }
