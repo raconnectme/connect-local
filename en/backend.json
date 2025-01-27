@@ -5,7 +5,9 @@
         "passwordMissing": "Password not set",
         "wrongLogin": "Password or user name is wrong",
         "forbidden": "Forbidden",
-        "missingOrg":"Organization is not found",
-        "deviceDisabled": "User device is disabled"
+        "missingOrg": "Organization is not found",
+        "deviceDisabled": "User device is disabled",
+        "deliveryFailed": "Delivery failed",
+        "templateNotFound": "Template not foud"
     }
 }
