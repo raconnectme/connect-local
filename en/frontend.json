@@ -3,7 +3,14 @@
         "email": "Email address",
         "password": "Password",
         "charMinLimit": "{{chars}}+ characters",
-        "or": "OR"
+        "or": "OR",
+        "account": "Account",
+        "security": "Security",
+        "changeLang": "Change language",
+        "changeEmail": "Change email",
+        "changePhone": "Change Phone",
+        "changePin": "Change Pin",
+        "biometrics": "Biometrics"
     },
     "buttons": {
         "login": "Sign in",
