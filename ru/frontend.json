@@ -49,5 +49,10 @@
         "calendar": "Календарь",
         "chat": "Чат",
         "more": "Еще"
+    },
+    "langCodes": {
+        "en": "English",
+        "ru": "Russian",
+        "lv": "Latvian"
     }
 }

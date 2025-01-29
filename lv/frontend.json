@@ -49,5 +49,10 @@
         "calendar": "Kalendārs",
         "chat": "Čats",
         "more": "Vairāk"
+    },
+    "langCodes": {
+        "en": "Angļu",
+        "ru": "Krievu",
+        "lv": "Latviešu"
     }
 }

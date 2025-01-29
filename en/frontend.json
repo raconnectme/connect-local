@@ -29,7 +29,8 @@
         "forgotPassword": "Forgot password?",
         "forgotPasswordDetails": "We've sent a 6-digit confirmation email to your email. Please enter the code in below box to verify your email.",
         "logoutTitle": "Are you sure you want to sign out?",
-        "logoutDesc": "You’ll be able to log in back at any time"
+        "logoutDesc": "You’ll be able to log in back at any time",
+        "nothingFound": "Nothing found"
     },
     "alerts": {
         "genericError": "Something went wrong",
@@ -49,5 +50,10 @@
         "calendar": "Calendar",
         "chat": "Chat",
         "more": "More"
+    },
+    "langCodes": {
+        "en": "English",
+        "ru": "Russian",
+        "lv": "Latvian"
     }
 }
