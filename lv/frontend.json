@@ -1,21 +1,53 @@
 {
     "fields": {
-        "email": "E-pasts",
+        "email": "E-pasta adrese",
         "password": "Parole",
-        "charMinLimit": "{{chars}}+ simboli",
-        "or": "Vai"
+        "charMinLimit": "{{chars}}+ rakstzīmes",
+        "or": "VAI",
+        "account": "Konts",
+        "security": "Drošība",
+        "changeLang": "Mainīt valodu",
+        "changeEmail": "Mainīt e-pastu",
+        "changePhone": "Mainīt tālruni",
+        "changePin": "Mainīt PIN",
+        "biometrics": "Biometrika"
     },
     "buttons": {
-        "login": "Ielogoties"
+        "login": "Pieteikties",
+        "update": "Atjaunināt",
+        "confirm": "Apstiprināt",
+        "logout": "Iziet"
     },
     "validator": {
-        "required": "Obligāts"
+        "required": "Obligāti"
     },
     "texts": {
-        "singIn": "Ielogoties savā profilā",
-        "forgotPassword": "Aizmirsu parole",
-        "needHelp": "Vai vajag palīdzību?",
-        "noAccount": "Nav profila?",
-        "getStarted": "Sākt"
+        "singIn": "Piesakieties savā kontā",
+        "needHelp": "Nepieciešama palīdzība?",
+        "noAccount": "Nav konta?",
+        "getStarted": "Sākt",
+        "forgotPassword": "Aizmirsāt paroli?",
+        "forgotPasswordDetails": "Mēs esam nosūtījuši 6 ciparu apstiprinājuma kodu uz jūsu e-pastu. Lūdzu, ievadiet kodu zemāk, lai apstiprinātu savu e-pastu.",
+        "logoutTitle": "Vai tiešām vēlaties iziet?",
+        "logoutDesc": "Jūs varat pieteikties jebkurā laikā"
+    },
+    "alerts": {
+        "genericError": "Kaut kas nogāja greizi",
+        "loginError": "Nederīgs lietotājvārds vai parole"
+    },
+    "rooted": {
+        "title": "Uzmanību! Jūsu ierīce ir rootēta!",
+        "subtitle": "Drošības nolūkos mūsu lietotne nav saderīga ar rootētām ierīcēm. Lūdzu, mēģiniet izmantot citu ierīci."
+    },
+    "updateRequired": {
+        "title": "Nepieciešams atjauninājums!",
+        "subTitle": "Lūdzu, atjauniniet lietotni, lai turpinātu",
+        "updateBtn": "Atjaunināt"
+    },
+    "menu": {
+        "home": "Sākums",
+        "calendar": "Kalendārs",
+        "chat": "Čats",
+        "more": "Vairāk"
     }
 }

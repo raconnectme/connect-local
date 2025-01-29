@@ -15,7 +15,8 @@
     "buttons": {
         "login": "Sign in",
         "update": "Update",
-        "confirm": "Confirm"
+        "confirm": "Confirm",
+        "logout": "Logout"
     },
     "validator": {
         "required": "Required"
@@ -26,7 +27,9 @@
         "noAccount": "Don't have an account?",
         "getStarted": "Get started",
         "forgotPassword": "Forgot password?",
-        "forgotPasswordDetails": "We've sent a 6-digit confirmation email to your email. Please enter the code in below box to verify your email."
+        "forgotPasswordDetails": "We've sent a 6-digit confirmation email to your email. Please enter the code in below box to verify your email.",
+        "logoutTitle": "Are you sure you want to sign out?",
+        "logoutDesc": "You’ll be able to log in back at any time"
     },
     "alerts": {
         "genericError": "Something went wrong",
