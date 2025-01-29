@@ -7,17 +7,19 @@
     },
     "buttons": {
         "login": "Sign in",
-        "update": "Update"
+        "update": "Update",
+        "confirm": "Confirm"
     },
     "validator": {
         "required": "Required"
     },
     "texts": {
         "singIn": "Sign in to your account",
-        "forgotPassword": "Forgot password?",
         "needHelp": "Need help?",
         "noAccount": "Don't have an account?",
-        "getStarted": "Get started"
+        "getStarted": "Get started",
+        "forgotPassword": "Forgot password?",
+        "forgotPasswordDetails": "We've sent a 6-digit confirmation email to your email. Please enter the code in below box to verify your email."
     },
     "alerts": {
         "genericError": "Something went wrong",

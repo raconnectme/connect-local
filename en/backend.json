@@ -8,6 +8,10 @@
         "missingOrg": "Organization is not found",
         "deviceDisabled": "User device is disabled",
         "deliveryFailed": "Delivery failed",
-        "templateNotFound": "Template not foud"
+        "templateNotFound": "Template not foud",
+        "requiredEmailOtpCode": "Required OTP code",
+        "invalidEmailOtpCode": "Wrong OTP code",
+        "invalidAgent": "Agent unknown",
+        "missingPassword": "Missing password"
     }
 }
