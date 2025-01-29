@@ -1,0 +1,17 @@
+{
+    "errors": {
+        "userNotFound": "Benutzer nicht gefunden",
+        "userDisabled": "Benutzer ist deaktiviert",
+        "passwordMissing": "Passwort nicht gesetzt",
+        "wrongLogin": "Passwort oder Benutzername ist falsch",
+        "forbidden": "Verboten",
+        "missingOrg": "Organisation nicht gefunden",
+        "deviceDisabled": "Benutzergerät ist deaktiviert",
+        "deliveryFailed": "Lieferung fehlgeschlagen",
+        "templateNotFound": "Vorlage nicht gefunden",
+        "requiredEmailOtpCode": "OTP-Code erforderlich",
+        "invalidEmailOtpCode": "Falscher OTP-Code",
+        "invalidAgent": "Unbekannter Agent",
+        "missingPassword": "Passwort fehlt"
+    }
+}

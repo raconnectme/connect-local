@@ -1,0 +1,59 @@
+{
+    "fields": {
+        "email": "E-Mail-Adresse",
+        "password": "Passwort",
+        "charMinLimit": "{{chars}}+ Zeichen",
+        "or": "ODER",
+        "account": "Konto",
+        "security": "Sicherheit",
+        "changeLang": "Sprache ändern",
+        "changeEmail": "E-Mail ändern",
+        "changePhone": "Telefon ändern",
+        "changePin": "PIN ändern",
+        "biometrics": "Biometrie"
+    },
+    "buttons": {
+        "login": "Anmelden",
+        "update": "Aktualisieren",
+        "confirm": "Bestätigen",
+        "logout": "Abmelden"
+    },
+    "validator": {
+        "required": "Erforderlich"
+    },
+    "texts": {
+        "singIn": "Melden Sie sich in Ihrem Konto an",
+        "needHelp": "Brauchen Sie Hilfe?",
+        "noAccount": "Haben Sie kein Konto?",
+        "getStarted": "Loslegen",
+        "forgotPassword": "Passwort vergessen?",
+        "forgotPasswordDetails": "Wir haben einen 6-stelligen Bestätigungscode an Ihre E-Mail-Adresse gesendet. Bitte geben Sie den Code im untenstehenden Feld ein, um Ihre E-Mail-Adresse zu bestätigen.",
+        "logoutTitle": "Sind Sie sicher, dass Sie sich abmelden möchten?",
+        "logoutDesc": "Sie können sich jederzeit wieder anmelden",
+        "nothingFound": "Nichts gefunden"
+    },
+    "alerts": {
+        "genericError": "Etwas ist schief gelaufen",
+        "loginError": "Ungültiger Benutzername oder Passwort"
+    },
+    "rooted": {
+        "title": "Achtung! Ihr Gerät ist gerootet!",
+        "subtitle": "Aus Sicherheitsgründen ist unsere Anwendung mit gerooteten Geräten nicht kompatibel. Bitte versuchen Sie es mit einem anderen Gerät."
+    },
+    "updateRequired": {
+        "title": "Update erforderlich!",
+        "subTitle": "Bitte aktualisieren Sie die Anwendung, um fortzufahren",
+        "updateBtn": "Aktualisieren"
+    },
+    "menu": {
+        "home": "Startseite",
+        "calendar": "Kalender",
+        "chat": "Chat",
+        "more": "Mehr"
+    },
+    "langCodes": {
+        "en": "Englisch",
+        "ru": "Russisch",
+        "lv": "Lettisch"
+    }
+}
