@@ -2,6 +2,7 @@
     "fields": {
         "email": "Email address",
         "password": "Password",
+        "confirmPassword": "Confirm New Password",
         "charMinLimit": "{{chars}}+ characters",
         "or": "OR",
         "account": "Account",
@@ -10,7 +11,8 @@
         "changeEmail": "Change email",
         "changePhone": "Change Phone",
         "changePin": "Change Pin",
-        "biometrics": "Biometrics"
+        "biometrics": "Biometrics",
+        "updatePassword": "Update password"
     },
     "buttons": {
         "login": "Sign in",
@@ -30,7 +32,11 @@
         "forgotPasswordDetails": "We've sent a 6-digit confirmation email to your email. Please enter the code in below box to verify your email.",
         "logoutTitle": "Are you sure you want to sign out?",
         "logoutDesc": "You’ll be able to log in back at any time",
-        "nothingFound": "Nothing found"
+        "nothingFound": "Nothing found",
+        "codeSent": "One time code sent successfully!",
+        "codeSentDetails": "We've sent a 6-digit confirmation email to your email. Please enter the code in below box to verify your email.",
+        "noCode": "Don’t have a code? ",
+        "resendCode": " Resend code"
     },
     "alerts": {
         "genericError": "Something went wrong",
@@ -54,6 +60,7 @@
     "langCodes": {
         "en": "English",
         "ru": "Russian",
-        "lv": "Latvian"
+        "lv": "Latvian",
+        "de": "German"
     }
 }
