@@ -23,7 +23,8 @@
     "validator": {
         "required": "Required",
         "email": "Wrong email format",
-        "strongPassword": "Password min length 8, at lest 1 number and symbol, should have upper and lower case"
+        "strongPassword": "Password is not strong",
+        "notMatch":"Passwords doesn't match"
     },
     "texts": {
         "singIn": "Sign in to your account",
