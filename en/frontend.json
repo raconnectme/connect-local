@@ -36,7 +36,7 @@
         "logoutDesc": "You’ll be able to log in back at any time",
         "nothingFound": "Nothing found",
         "codeSent": "One time code sent successfully!",
-        "codeSentDetails": "We've sent a 6-digit confirmation email to your email. Please enter the code in below box to verify your email.",
+        "codeSentDetails": "We've sent a 6-digit confirmation email to your email: {{email}}. Please enter the code in below box to verify your email.",
         "noCode": "Don’t have a code? ",
         "resendCode": " Resend code"
     },
