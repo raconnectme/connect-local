@@ -21,7 +21,9 @@
         "logout": "Logout"
     },
     "validator": {
-        "required": "Required"
+        "required": "Required",
+        "email": "Wrong email format",
+        "strongPassword": "Password min length 8, at lest 1 number and symbol, should have upper and lower case"
     },
     "texts": {
         "singIn": "Sign in to your account",
@@ -40,7 +42,8 @@
     },
     "alerts": {
         "genericError": "Something went wrong",
-        "loginError": "Invalid username or password"
+        "loginError": "Invalid username or password",
+        "passwordChanged": "Password is changed"
     },
     "rooted": {
         "title": "Attention! Your device is rooted!",
