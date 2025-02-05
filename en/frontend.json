@@ -25,7 +25,7 @@
         "required": "Required",
         "email": "Wrong email format",
         "strongPassword": "Password is not strong",
-        "notMatch":"Passwords doesn't match"
+        "notMatch": "Passwords doesn't match"
     },
     "texts": {
         "singIn": "Sign in to your account",
@@ -55,6 +55,12 @@
         "title": "Update required!",
         "subTitle": "Please update application to continue",
         "updateBtn": "Update"
+    },
+    "setupPasscode": {
+        "createTitle": "Create passcode",
+        "confirmTitle": "Confirm passcode",
+        "subTitle": "Set up passcode for your own security",
+        "error": "Passcodes don\"t match. Try again."
     },
     "menu": {
         "home": "Home",
