@@ -12,6 +12,7 @@
         "requiredEmailOtpCode": "Required OTP code",
         "invalidEmailOtpCode": "Wrong OTP code",
         "invalidAgent": "Agent unknown",
-        "missingPassword": "Missing password"
+        "missingPassword": "Missing password",
+        "somethingWentWrong": "Something went wrong"
     }
 }
