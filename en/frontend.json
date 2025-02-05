@@ -12,7 +12,8 @@
         "changePhone": "Change Phone",
         "changePin": "Change Pin",
         "biometrics": "Biometrics",
-        "updatePassword": "Update password"
+        "updatePassword": "Update password",
+        "notifications": "Notifications"
     },
     "buttons": {
         "login": "Sign in",
