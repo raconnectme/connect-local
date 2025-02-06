@@ -13,6 +13,10 @@
         "invalidEmailOtpCode": "Wrong OTP code",
         "invalidAgent": "Agent unknown",
         "missingPassword": "Missing password",
-        "somethingWentWrong": "Something went wrong"
+        "somethingWentWrong": "Something went wrong",
+        "userDevicesNotFound": "User device missing",
+        "userDataMissing": "User data missing",
+        "invalidPincode": "Wrong pin code",
+        "requiredPincode": "Required pin code"
     }
 }

@@ -62,6 +62,12 @@
         "subTitle": "Set up passcode for your own security",
         "error": "Passcodes don\"t match. Try again."
     },
+    "confirmPasscode": {
+        "title": "Enter passcode",
+        "loginSubTitle": "Enter your passcode to confirm log in",
+        "actionSubTitle": "Enter your passcode confirm",
+        "biometricsSubTitle": "Enter your passcode to enable biometrics"
+      },
     "menu": {
         "home": "Home",
         "calendar": "Calendar",
