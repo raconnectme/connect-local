@@ -45,7 +45,8 @@
     "alerts": {
         "genericError": "Something went wrong",
         "loginError": "Invalid username or password",
-        "passwordChanged": "Password is changed"
+        "passwordChanged": "Password is changed",
+        "invalidPascode": "Wrong passcode"
     },
     "rooted": {
         "title": "Attention! Your device is rooted!",
@@ -64,10 +65,8 @@
     },
     "confirmPasscode": {
         "title": "Enter passcode",
-        "loginSubTitle": "Enter your passcode to confirm log in",
-        "actionSubTitle": "Enter your passcode confirm",
-        "biometricsSubTitle": "Enter your passcode to enable biometrics"
-      },
+        "loginSubTitle": "Enter your passcode to confirm log in"
+    },
     "menu": {
         "home": "Home",
         "calendar": "Calendar",
