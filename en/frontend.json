@@ -46,7 +46,8 @@
         "genericError": "Something went wrong",
         "loginError": "Invalid username or password",
         "passwordChanged": "Password is changed",
-        "invalidPascode": "Wrong passcode"
+        "invalidPascode": "Wrong passcode",
+        "pinLock": "Too many attempts. Locked for {{min}}"
     },
     "rooted": {
         "title": "Attention! Your device is rooted!",
