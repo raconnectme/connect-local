@@ -47,7 +47,7 @@
         "loginError": "Invalid username or password",
         "passwordChanged": "Password is changed",
         "invalidPascode": "Wrong passcode",
-        "pinLock": "Too many attempts. Locked for {{min}}"
+        "pinLock": "Too many attempts. Locked for {{min}} minutes"
     },
     "rooted": {
         "title": "Attention! Your device is rooted!",
