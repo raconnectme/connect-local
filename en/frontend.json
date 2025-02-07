@@ -46,7 +46,7 @@
         "genericError": "Something went wrong",
         "loginError": "Invalid username or password",
         "passwordChanged": "Password is changed",
-        "invalidPascode": "Wrong passcode",
+        "invalidPascode": "Wrong passcode. Please try again.",
         "pinLock": "Too many attempts. Locked for {{min}} minutes"
     },
     "rooted": {
