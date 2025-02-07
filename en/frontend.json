@@ -22,7 +22,8 @@
         "logout": "Logout",
         "dontAllow": "Don't allow",
         "enable": "Enable",
-        "continue": "Continue"
+        "continue": "Continue",
+        "skip": "Skip"
     },
     "validator": {
         "required": "Required",
@@ -72,8 +73,8 @@
         "loginSubTitle": "Enter your passcode to confirm log in"
     },
     "biometrics": {
-        "title": "Biometric authentication.",
-        "subTitle": "Do you want to allow {{brand}} to enable biometrics? This will allow to authenticate with biometrics"
+        "title": "Biometric authentication",
+        "subTitle": "Do you want to allow {{brand}} to enable biometrics? This will allow you to pass authenticate with biometrics."
     },
     "menu": {
         "home": "Home",
