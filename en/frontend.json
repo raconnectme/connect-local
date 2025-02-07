@@ -74,7 +74,8 @@
     },
     "biometrics": {
         "title": "Biometric authentication",
-        "subTitle": "Do you want to allow {{brand}} to enable biometrics? This will allow you to pass authenticate with biometrics."
+        "subTitle": "Do you want to allow {{brand}} to enable biometrics? This will allow you to pass authenticate with biometrics.",
+        "biometricsPin": "Enter your passcode to enable biometrics"
     },
     "menu": {
         "home": "Home",
