@@ -77,6 +77,10 @@
         "subTitle": "Do you want to allow {{brand}} to enable biometrics? This will allow you to pass authenticate with biometrics.",
         "biometricsPin": "Enter your passcode to enable biometrics"
     },
+    "enableNotifications": {
+        "title": "Enable notifications",
+        "subTitle": "This is required to receive update from company {{brand}}"
+      },
     "menu": {
         "home": "Home",
         "calendar": "Calendar",
