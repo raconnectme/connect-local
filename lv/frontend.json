@@ -2,6 +2,7 @@
     "fields": {
         "email": "E-pasta adrese",
         "password": "Parole",
+        "confirmPassword": "Apstiprināt jauno paroli",
         "charMinLimit": "{{chars}}+ rakstzīmes",
         "or": "VAI",
         "account": "Konts",
@@ -10,49 +11,96 @@
         "changeEmail": "Mainīt e-pastu",
         "changePhone": "Mainīt tālruni",
         "changePin": "Mainīt PIN",
-        "biometrics": "Biometrika"
+        "biometrics": "Biometriskie dati",
+        "updatePassword": "Atjaunināt paroli",
+        "notifications": "Paziņojumi"
     },
     "buttons": {
-        "login": "Pieteikties",
+        "login": "Pieslēgties",
         "update": "Atjaunināt",
         "confirm": "Apstiprināt",
-        "logout": "Iziet"
+        "logout": "Izlogoties",
+        "dontAllow": "Neatļaut",
+        "enable": "Iespējot",
+        "continue": "Turpināt",
+        "skip": "Izlaist"
     },
     "validator": {
-        "required": "Obligāti"
+        "required": "Nepieciešams",
+        "email": "Nepareizs e-pasta formāts",
+        "strongPassword": "Parole nav pietiekami stipra",
+        "notMatch": "Paroles nesakrīt",
+        "passwordMin6Char": "Parolei jābūt vismaz 6 rakstzīmēm!"
     },
     "texts": {
-        "singIn": "Piesakieties savā kontā",
+        "singIn": "Pieslēdzieties savam kontam",
         "needHelp": "Nepieciešama palīdzība?",
         "noAccount": "Nav konta?",
         "getStarted": "Sākt",
         "forgotPassword": "Aizmirsāt paroli?",
-        "forgotPasswordDetails": "Mēs esam nosūtījuši 6 ciparu apstiprinājuma kodu uz jūsu e-pastu. Lūdzu, ievadiet kodu zemāk, lai apstiprinātu savu e-pastu.",
-        "logoutTitle": "Vai tiešām vēlaties iziet?",
-        "logoutDesc": "Jūs varat pieteikties jebkurā laikā"
+        "forgotPasswordDetails": "Mēs nosūtījām 6 ciparu apstiprinājuma e-pastu uz jūsu e-pastu. Lūdzu, ievadiet kodu zemākajā lodziņā, lai pārbaudītu savu e-pastu.",
+        "logoutTitle": "Vai tiešām vēlaties izlogoties?",
+        "logoutDesc": "Jūs jebkurā laikā varēsiet atkal pieslēgties",
+        "nothingFound": "Nekas netika atrasts",
+        "codeSent": "Vienreizējais kods nosūtīts veiksmīgi!",
+        "codeSentDetails": "Mēs nosūtījām 6 ciparu apstiprinājuma e-pastu uz jūsu e-pastu: {{email}}. Lūdzu, ievadiet kodu zemākajā lodziņā, lai pārbaudītu savu e-pastu.",
+        "noCode": "Nav koda? ",
+        "resendCode": " Nosūtīt kodu vēlreiz"
     },
     "alerts": {
         "genericError": "Kaut kas nogāja greizi",
-        "loginError": "Nederīgs lietotājvārds vai parole"
+        "loginError": "Nepareizs lietotājvārds vai parole",
+        "passwordChanged": "Parole ir mainīta",
+        "invalidPascode": "Nepareizs piekļuves kods. Lūdzu, mēģiniet vēlreiz.",
+        "pinLock": "Pārāk daudz mēģinājumu. Bloķēts uz {{min}} minūtēm"
     },
     "rooted": {
         "title": "Uzmanību! Jūsu ierīce ir rootēta!",
-        "subtitle": "Drošības nolūkos mūsu lietotne nav saderīga ar rootētām ierīcēm. Lūdzu, mēģiniet izmantot citu ierīci."
+        "subtitle": "Drošības nolūkos mūsu lietotne nav saderīga ar rootētām ierīcēm. Lūdzu, izmantojiet citu ierīci."
     },
     "updateRequired": {
-        "title": "Nepieciešams atjauninājums!",
+        "title": "Nepieciešama atjaunināšana!",
         "subTitle": "Lūdzu, atjauniniet lietotni, lai turpinātu",
         "updateBtn": "Atjaunināt"
     },
+    "setupPasscode": {
+        "createTitle": "Izveidot piekļuves kodu",
+        "confirmTitle": "Apstiprināt piekļuves kodu",
+        "subTitle": "Iestatiet piekļuves kodu savai drošībai",
+        "error": "Piekļuves kodi nesakrīt. Mēģiniet vēlreiz."
+    },
+    "confirmPasscode": {
+        "title": "Ievadiet piekļuves kodu",
+        "loginSubTitle": "Ievadiet savu piekļuves kodu, lai apstiprinātu pieslēgšanos"
+    },
+    "biometrics": {
+        "title": "Biometriskā autentifikācija",
+        "subTitle": "Vai vēlaties atļaut {{brand}} iespēju izmantot biometriskos datus? Tas ļaus jums autentificēties ar biometriku.",
+        "biometricsPin": "Ievadiet savu piekļuves kodu, lai iespējotu biometriku"
+    },
+    "enableNotifications": {
+        "title": "Iespējot paziņojumus",
+        "subTitle": "Tas ir nepieciešams, lai saņemtu atjauninājumus no uzņēmuma {{brand}}"
+    },
     "menu": {
-        "home": "Sākums",
+        "home": "Mājas",
         "calendar": "Kalendārs",
         "chat": "Čats",
         "more": "Vairāk"
     },
+    "chart": {
+        "title": "Darba slodze",
+        "planned": "Plānotās stundas",
+        "worked": "Izstrādātās stundas",
+        "actualPlanned": "Faktiski plānotās stundas",
+        "actualWorkd": "Faktiski izstrādātās stundas",
+        "shiftsPlanned": "Plānotie maiņas",
+        "shiftsWorked": "Faktiski strādātās maiņas"
+    },
     "langCodes": {
         "en": "Angļu",
         "ru": "Krievu",
-        "lv": "Latviešu"
+        "lv": "Latviešu",
+        "de": "Vācu"
     }
 }

@@ -29,7 +29,8 @@
         "required": "Required",
         "email": "Wrong email format",
         "strongPassword": "Password is not strong",
-        "notMatch": "Passwords doesn't match"
+        "notMatch": "Passwords doesn't match",
+        "passwordMin6Char": "Password must be at least 6 characters!"
     },
     "texts": {
         "singIn": "Sign in to your account",
