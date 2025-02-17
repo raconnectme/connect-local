@@ -84,7 +84,8 @@
         "subTitle": "Tas ir nepieciešams, lai saņemtu atjauninājumus no uzņēmuma {{brand}}"
     },
     "menu": {
-        "main": "Galvenais",
+        "individual": "Darbinieks",
+        "organization": "Organizācija", 
         "home": "Mājas",
         "calendar": "Kalendārs",
         "chat": "Čats",
