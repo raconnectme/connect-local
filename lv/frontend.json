@@ -45,7 +45,8 @@
         "codeSent": "Vienreizējais kods nosūtīts veiksmīgi!",
         "codeSentDetails": "Mēs nosūtījām 6 ciparu apstiprinājuma e-pastu uz jūsu e-pastu: {{email}}. Lūdzu, ievadiet kodu zemākajā lodziņā, lai pārbaudītu savu e-pastu.",
         "noCode": "Nav koda? ",
-        "resendCode": " Nosūtīt kodu vēlreiz"
+        "resendCode": " Nosūtīt kodu vēlreiz",
+        "xcharacters": "{{x}}+ simboli"
     },
     "alerts": {
         "genericError": "Kaut kas nogāja greizi",
