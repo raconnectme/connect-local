@@ -84,10 +84,14 @@
         "subTitle": "This is required to receive update from company {{brand}}"
     },
     "menu": {
+        "main": "Main",
         "home": "Home",
         "calendar": "Calendar",
         "chat": "Chat",
-        "more": "More"
+        "more": "More",
+        "management": "Managment",
+        "orgStructure": "Organization Chart",
+        "userUpload": "User load"
     },
     "chart": {
         "title": "Workload",

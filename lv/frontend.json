@@ -84,10 +84,14 @@
         "subTitle": "Tas ir nepieciešams, lai saņemtu atjauninājumus no uzņēmuma {{brand}}"
     },
     "menu": {
+        "main": "Galvenais",
         "home": "Mājas",
         "calendar": "Kalendārs",
         "chat": "Čats",
-        "more": "Vairāk"
+        "more": "Vairāk",
+        "management": "Pārvaldība",
+        "orgStructure": "Organizācijas struktūra",
+        "userUpload": "Lietotāju ielāde"
     },
     "chart": {
         "title": "Darba slodze",
