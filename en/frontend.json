@@ -13,7 +13,8 @@
         "changePin": "Change Pin",
         "biometrics": "Biometrics",
         "updatePassword": "Update password",
-        "notifications": "Notifications"
+        "notifications": "Notifications",
+         "search": "Search..."
     },
     "buttons": {
         "login": "Sign in",

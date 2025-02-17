@@ -13,7 +13,8 @@
         "changePin": "Mainīt PIN",
         "biometrics": "Biometriskie dati",
         "updatePassword": "Atjaunināt paroli",
-        "notifications": "Paziņojumi"
+        "notifications": "Paziņojumi",
+        "search": "Meklēt..."
     },
     "buttons": {
         "login": "Pieslēgties",
@@ -85,7 +86,7 @@
     },
     "menu": {
         "individual": "Darbinieks",
-        "organization": "Organizācija", 
+        "organization": "Organizācija",
         "home": "Mājas",
         "calendar": "Kalendārs",
         "chat": "Čats",
