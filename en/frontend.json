@@ -102,6 +102,8 @@
     },
     "chart": {
         "title": "Workload",
+        "plan": "Planned",
+        "actual": "Actual",
         "planned": "Planned h",
         "worked": "Worked h",
         "actualPlanned": "Actual planned h",
