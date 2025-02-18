@@ -25,7 +25,11 @@
         "colors": "Colors",
         "filters": "Filters",
         "range": "Range",
-        "today":"Today"
+        "today":"Today",
+        "month":"Month",
+        "week":"Week",
+        "day":"Day",
+        "agenda":"Agenda"
     },
     "buttons": {
         "login": "Sign in",

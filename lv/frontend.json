@@ -25,7 +25,11 @@
         "colors": "Krāsas",
         "filters": "Filtri",
         "range": "Diapazons",
-        "today": "Šodiena"
+        "today": "Šodiena",
+        "month": "Mēnesis",
+        "week": "Nedēļa",
+        "day": "Diena",
+        "agenda": "Darba kārtība"
     },
     "buttons": {
         "login": "Pieslēgties",
