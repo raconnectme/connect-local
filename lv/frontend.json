@@ -14,7 +14,8 @@
         "biometrics": "Biometriskie dati",
         "updatePassword": "Atjaunināt paroli",
         "notifications": "Paziņojumi",
-        "search": "Meklēt..."
+        "search": "Meklēt...",
+        "settings": "Uzstadījumi"
     },
     "buttons": {
         "login": "Pieslēgties",
@@ -24,7 +25,11 @@
         "dontAllow": "Neatļaut",
         "enable": "Iespējot",
         "continue": "Turpināt",
-        "skip": "Izlaist"
+        "skip": "Izlaist",
+        "zoomIn": "Tuvojiet",
+        "zoomOut": "Attālināt",
+        "reset": "Atiestatīt",
+        "center": "Centrs"
     },
     "validator": {
         "required": "Nepieciešams",
