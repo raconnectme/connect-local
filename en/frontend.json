@@ -15,7 +15,8 @@
         "updatePassword": "Update password",
         "notifications": "Notifications",
         "search": "Search...",
-        "settings": "Settings"
+        "settings": "Settings",
+        "overview":"Overview"
     },
     "buttons": {
         "login": "Sign in",
