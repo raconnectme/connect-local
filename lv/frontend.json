@@ -24,7 +24,8 @@
         "event": "Notikums",
         "colors": "Krāsas",
         "filters": "Filtri",
-        "range": "Diapazons"
+        "range": "Diapazons",
+        "today": "Šodiena"
     },
     "buttons": {
         "login": "Pieslēgties",

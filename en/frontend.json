@@ -24,7 +24,8 @@
         "event": "Event",
         "colors": "Colors",
         "filters": "Filters",
-        "range": "Range"
+        "range": "Range",
+        "today":"Today"
     },
     "buttons": {
         "login": "Sign in",
