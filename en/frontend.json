@@ -16,7 +16,9 @@
         "notifications": "Notifications",
         "search": "Search...",
         "settings": "Settings",
-        "overview":"Overview"
+        "overview":"Overview",
+        "bonuss": "Bonuss",
+        "endsOn":"Ends on"
     },
     "buttons": {
         "login": "Sign in",
