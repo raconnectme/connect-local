@@ -16,9 +16,15 @@
         "notifications": "Notifications",
         "search": "Search...",
         "settings": "Settings",
-        "overview":"Overview",
+        "overview": "Overview",
         "bonuss": "Bonuss",
-        "endsOn":"Ends on"
+        "endsOn": "Ends on",
+        "calendar": "Calendar",
+        "newEvent": " New event",
+        "event": "Event",
+        "colors": "Colors",
+        "filters": "Filters",
+        "range": "Range"
     },
     "buttons": {
         "login": "Sign in",
