@@ -37,7 +37,8 @@
         "title": "Title",
         "description": "Description",
         "allDay": "All Day",
-        "deleteEvent":"Delete event"
+        "deleteEvent": "Delete event",
+        "type": "Type"
     },
     "buttons": {
         "login": "Sign in",
@@ -62,7 +63,7 @@
         "notMatch": "Passwords doesn't match",
         "passwordMin6Char": "Password must be at least 6 characters!",
         "endDate": "End date must be later than start date",
-        "maxChar":"{{field}} must be less than {{number}} characters"
+        "maxChar": "{{field}} must be less than {{number}} characters"
     },
     "texts": {
         "singIn": "Sign in to your account",
@@ -136,6 +137,11 @@
         "actualWorkd": "Actual worked h",
         "shiftsPlanned": "Shifts planned",
         "shiftsWorked": "Shifts actual"
+    },
+    "ScheduleType": {
+        "PLANNED": "Planned",
+        "ADHOC": "Ad hoc",
+        "REPORT": "Report"
     },
     "langCodes": {
         "en": "English",
