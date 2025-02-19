@@ -26,13 +26,18 @@
         "filters": "Filters",
         "range": "Range",
         "today": "Today",
-        "year":"Year",
+        "year": "Year",
         "month": "Month",
         "week": "Week",
         "day": "Day",
         "agenda": "Agenda",
         "startDate": "Start date",
-        "endDate": "End date"
+        "endDate": "End date",
+        "add": "Add",
+        "title": "Title",
+        "description": "Description",
+        "allDay": "All Day",
+        "deleteEvent":"Delete event"
     },
     "buttons": {
         "login": "Sign in",
@@ -46,7 +51,9 @@
         "zoomIn": "Zoom In",
         "zoomOut": "Zoom out",
         "reset": "Reset",
-        "center": " Center"
+        "center": " Center",
+        "cancel": "Cancel",
+        "save": "Save"
     },
     "validator": {
         "required": "Required",
@@ -54,7 +61,8 @@
         "strongPassword": "Password is not strong",
         "notMatch": "Passwords doesn't match",
         "passwordMin6Char": "Password must be at least 6 characters!",
-        "endDate":"End date must be later than start date"
+        "endDate": "End date must be later than start date",
+        "maxChar":"{{field}} must be less than {{number}} characters"
     },
     "texts": {
         "singIn": "Sign in to your account",
