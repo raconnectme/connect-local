@@ -38,7 +38,13 @@
         "description": "Description",
         "allDay": "All Day",
         "deleteEvent": "Delete event",
-        "type": "Type"
+        "type": "Type",
+        "date": "Date",
+        "addressLine1": "Street",
+        "city": "City",
+        "country": "Country",
+        "state": "State",
+        "PpostalCode": "Postal Code"
     },
     "buttons": {
         "login": "Sign in",
