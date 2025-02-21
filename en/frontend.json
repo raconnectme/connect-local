@@ -62,7 +62,9 @@
         "reset": "Reset",
         "center": " Center",
         "cancel": "Cancel",
-        "save": "Save"
+        "save": "Save",
+        "next": "Next",
+        "back": "Back"
     },
     "validator": {
         "required": "Required",
