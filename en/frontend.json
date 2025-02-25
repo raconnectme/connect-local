@@ -34,6 +34,7 @@
         "startDate": "Start date",
         "endDate": "End date",
         "add": "Add",
+        "edit": "Edit",
         "title": "Title",
         "description": "Description",
         "allDay": "All Day",
@@ -68,7 +69,8 @@
         "save": "Save",
         "next": "Next",
         "back": "Back",
-        "done": "Done"
+        "done": "Done",
+        "delete": "Delete"
     },
     "validator": {
         "required": "Required",
@@ -77,9 +79,9 @@
         "notMatch": "Passwords doesn't match",
         "passwordMin6Char": "Password must be at least 6 characters!",
         "endDate": "End date must be later than start date",
-        "maxChar100": "Must be less than 100 characters",
-        "maxChar500": "Must be less than 500 characters",
-        "fileTypes": "Invalid file type. Allowed types {{types}}"
+        "maxChar": "Must be less than {{char}} characters",
+        "fileTypes": "Invalid file type. Allowed types {{types}}",
+        "fileSize": "File size should not exceed {{size}}"
     },
     "texts": {
         "singIn": "Sign in to your account",
@@ -102,7 +104,8 @@
         "loginError": "Invalid username or password",
         "passwordChanged": "Password is changed",
         "invalidPascode": "Wrong passcode. Please try again.",
-        "pinLock": "Too many attempts. Locked for {{min}} minutes"
+        "pinLock": "Too many attempts. Locked for {{min}} minutes",
+        "genericSuccess": "Completed sucessfully"
     },
     "rooted": {
         "title": "Attention! Your device is rooted!",
