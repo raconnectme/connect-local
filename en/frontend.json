@@ -47,10 +47,9 @@
         "postalCode": "Postal Code",
         "location": "Location",
         "notes": "Notes",
-        "dropOrSelect":"Drop or select file",
-        "dropHere":"Drop files here or click to",
-        "browse":"browse"
-
+        "dropOrSelect": "Drop or select file",
+        "dropHere": "Drop files here or click to",
+        "browse": "browse"
     },
     "buttons": {
         "login": "Sign in",
@@ -69,7 +68,7 @@
         "save": "Save",
         "next": "Next",
         "back": "Back",
-        "done":"Done"
+        "done": "Done"
     },
     "validator": {
         "required": "Required",
@@ -79,7 +78,8 @@
         "passwordMin6Char": "Password must be at least 6 characters!",
         "endDate": "End date must be later than start date",
         "maxChar100": "Must be less than 100 characters",
-        "maxChar500": "Must be less than 500 characters"
+        "maxChar500": "Must be less than 500 characters",
+        "fileTypes": "Invalid file type. Allowed types {{types}}"
     },
     "texts": {
         "singIn": "Sign in to your account",
