@@ -46,7 +46,11 @@
         "state": "State",
         "postalCode": "Postal Code",
         "location": "Location",
-        "notes": "Notes"
+        "notes": "Notes",
+        "dropOrSelect":"Drop or select file",
+        "dropHere":"Drop files here or click to",
+        "browse":"browse"
+
     },
     "buttons": {
         "login": "Sign in",
@@ -64,7 +68,8 @@
         "cancel": "Cancel",
         "save": "Save",
         "next": "Next",
-        "back": "Back"
+        "back": "Back",
+        "done":"Done"
     },
     "validator": {
         "required": "Required",
