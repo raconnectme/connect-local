@@ -50,7 +50,8 @@
         "notes": "Notes",
         "dropOrSelect": "Drop or select file",
         "dropHere": "Drop files here or click to",
-        "browse": "browse"
+        "browse": "browse",
+        "attachments":"Attachments"
     },
     "buttons": {
         "login": "Sign in",
