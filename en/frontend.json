@@ -53,7 +53,8 @@
         "browse": "browse",
         "attachments": "Attachments",
         "addNewNoteTitle": "Add new note title",
-        "addNewNoteDesc": "Add new note description"
+        "addNewNoteDesc": "Add new note description",
+        "existingAttachments":"Previous uploaded attachments"
     },
     "buttons": {
         "login": "Sign in",
@@ -148,7 +149,11 @@
         "more": "More",
         "management": "Managment",
         "orgStructure": "Organization Chart",
-        "userUpload": "User load"
+        "userUpload": "User load",
+        "profile": "Profile",
+        "absence":"Absences",
+        "security":"Security",
+        "dashboard":"Dashboard"
     },
     "chart": {
         "title": "Workload",
