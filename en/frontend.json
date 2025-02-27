@@ -51,7 +51,9 @@
         "dropOrSelect": "Drop or select file",
         "dropHere": "Drop files here or click to",
         "browse": "browse",
-        "attachments":"Attachments"
+        "attachments": "Attachments",
+        "addNewNoteTitle": "Add new note title",
+        "addNewNoteDesc": "Add new note description"
     },
     "buttons": {
         "login": "Sign in",
@@ -71,7 +73,8 @@
         "next": "Next",
         "back": "Back",
         "done": "Done",
-        "delete": "Delete"
+        "delete": "Delete",
+        "deleteEvent": "Delete Event"
     },
     "validator": {
         "required": "Required",
