@@ -54,7 +54,21 @@
         "attachments": "Attachments",
         "addNewNoteTitle": "Add new note title",
         "addNewNoteDesc": "Add new note description",
-        "existingAttachments":"Previous uploaded attachments"
+        "existingAttachments":"Previous uploaded attachments",
+        "address":"Address",
+        "contactInfo":"Contact information",
+        "individual": "Individual",
+        "organization": "Organization",
+        "home": "Home", 
+        "chat": "Chat",
+        "user": "User",
+        "more": "More",
+        "management": "Managment",
+        "orgStructure": "Organization Chart",
+        "userUpload": "User load",
+        "profile": "Profile",
+        "absence":"Absences", 
+        "dashboard":"Dashboard"
     },
     "buttons": {
         "login": "Sign in",
@@ -139,23 +153,7 @@
     "enableNotifications": {
         "title": "Enable notifications",
         "subTitle": "This is required to receive update from company {{brand}}"
-    },
-    "menu": {
-        "individual": "Individual",
-        "organization": "Organization",
-        "home": "Home",
-        "calendar": "Calendar",
-        "chat": "Chat",
-        "user": "User",
-        "more": "More",
-        "management": "Managment",
-        "orgStructure": "Organization Chart",
-        "userUpload": "User load",
-        "profile": "Profile",
-        "absence":"Absences",
-        "security":"Security",
-        "dashboard":"Dashboard"
-    },
+    }, 
     "chart": {
         "title": "Workload",
         "plan": "Planned",
