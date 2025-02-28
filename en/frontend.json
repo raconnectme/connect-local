@@ -54,12 +54,12 @@
         "attachments": "Attachments",
         "addNewNoteTitle": "Add new note title",
         "addNewNoteDesc": "Add new note description",
-        "existingAttachments":"Previous uploaded attachments",
-        "address":"Address",
-        "contactInfo":"Contact information",
+        "existingAttachments": "Previous uploaded attachments",
+        "address": "Address",
+        "contactInfo": "Contact information",
         "individual": "Individual",
         "organization": "Organization",
-        "home": "Home", 
+        "home": "Home",
         "chat": "Chat",
         "user": "User",
         "more": "More",
@@ -67,8 +67,9 @@
         "orgStructure": "Organization Chart",
         "userUpload": "User load",
         "profile": "Profile",
-        "absence":"Absences", 
-        "dashboard":"Dashboard"
+        "personalInformation": "Personal information",
+        "absence": "Absences",
+        "dashboard": "Dashboard"
     },
     "buttons": {
         "login": "Sign in",
@@ -124,7 +125,8 @@
         "passwordChanged": "Password is changed",
         "invalidPascode": "Wrong passcode. Please try again.",
         "pinLock": "Too many attempts. Locked for {{min}} minutes",
-        "genericSuccess": "Completed sucessfully"
+        "genericSuccess": "Completed sucessfully",
+        "failedToUpdate": "Failed to update {{fields}}"
     },
     "rooted": {
         "title": "Attention! Your device is rooted!",
@@ -153,7 +155,7 @@
     "enableNotifications": {
         "title": "Enable notifications",
         "subTitle": "This is required to receive update from company {{brand}}"
-    }, 
+    },
     "chart": {
         "title": "Workload",
         "plan": "Planned",
