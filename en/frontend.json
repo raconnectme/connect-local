@@ -77,7 +77,10 @@
         "lastName": "Last Name",
         "jobTitle": "Job Title",
         "department": "Department",
-        "dateOfBirth": "Date Of Birth"
+        "dateOfBirth": "Date Of Birth",
+        "phoneNumber": "Phone number",
+        "homePhone": "Home phone number",
+        "relativePhone": "Relative phone number"
     },
     "buttons": {
         "login": "Sign in",
@@ -93,7 +96,7 @@
         "reset": "Reset",
         "center": " Center",
         "cancel": "Cancel",
-        "save": "Save",
+        "save": "Save changes",
         "next": "Next",
         "back": "Back",
         "done": "Done",
@@ -103,6 +106,8 @@
     "validator": {
         "required": "Required",
         "email": "Wrong email format",
+        "wrongPhone": "Wrong phone number",
+        "wrongDate": "Wrong date",
         "strongPassword": "Password is not strong",
         "notMatch": "Passwords doesn't match",
         "passwordMin6Char": "Password must be at least 6 characters!",
