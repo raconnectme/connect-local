@@ -69,7 +69,8 @@
         "profile": "Profile",
         "personalInformation": "Personal information",
         "absence": "Absences",
-        "dashboard": "Dashboard"
+        "dashboard": "Dashboard",
+        "employee": "Employee"
     },
     "buttons": {
         "login": "Sign in",
@@ -101,7 +102,9 @@
         "endDate": "End date must be later than start date",
         "maxChar": "Must be less than {{char}} characters",
         "fileTypes": "Invalid file type. Allowed types {{types}}",
-        "fileSize": "File size should not exceed {{size}}"
+        "fileSize": "File size should not exceed {{size}}",
+        "allowedTypes": "Allowed types {{types}}",
+        "maxSize": "max size of {{types}}"
     },
     "texts": {
         "singIn": "Sign in to your account",
@@ -126,7 +129,8 @@
         "invalidPascode": "Wrong passcode. Please try again.",
         "pinLock": "Too many attempts. Locked for {{min}} minutes",
         "genericSuccess": "Completed sucessfully",
-        "failedToUpdate": "Failed to update {{fields}}"
+        "failedToUpdate": "Failed to update {{fields}}",
+        "loading": "Loading...."
     },
     "rooted": {
         "title": "Attention! Your device is rooted!",
