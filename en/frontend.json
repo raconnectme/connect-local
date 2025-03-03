@@ -70,7 +70,14 @@
         "personalInformation": "Personal information",
         "absence": "Absences",
         "dashboard": "Dashboard",
-        "employee": "Employee"
+        "employee": "Employee",
+        "details": "Details",
+        "firstName": "First Name",
+        "middleName": "Middle Name",
+        "lastName": "Last Name",
+        "jobTitle": "Job Title",
+        "department": "Department",
+        "dateOfBirth": "Date Of Birth"
     },
     "buttons": {
         "login": "Sign in",
