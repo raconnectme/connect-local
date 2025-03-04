@@ -77,7 +77,8 @@
         "lastName": "Last Name",
         "jobTitle": "Job Title",
         "department": "Department",
-        "dateOfBirth": "Date Of Birth"
+        "dateOfBirth": "Date Of Birth",
+        "enterPhone":"Enter phone number"
     },
     "buttons": {
         "login": "Sign in",
