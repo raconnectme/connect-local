@@ -77,11 +77,7 @@
         "lastName": "Last Name",
         "jobTitle": "Job Title",
         "department": "Department",
-        "dateOfBirth": "Date Of Birth",
-        "phoneNumber": "Phone number",
-        "homePhone": "Home phone number",
-        "relativePhone": "Relative phone number",
-        "enterPhone":"Enter phone number"
+        "dateOfBirth": "Date Of Birth"
     },
     "buttons": {
         "login": "Sign in",
@@ -194,5 +190,13 @@
         "ru": "Russian",
         "lv": "Latvian",
         "de": "German"
+    },
+    "ContactPointTypeEnum": {
+        "PHONE": "Phone numbe",
+        "EMAIL": "Email Address",
+        "HOME_PHONE": "Home phone number",
+        "RELATIVE_PHONE": "Relative phone number",
+        "TELEGRAM": "Telegram",
+        "WHATSAPP": "Whatsapp"
     }
 }
