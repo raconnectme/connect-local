@@ -114,7 +114,8 @@
         "fileTypes": "Invalid file type. Allowed types {{types}}",
         "fileSize": "File size should not exceed {{size}}",
         "allowedTypes": "Allowed types {{types}}",
-        "maxSize": "max size of {{size}}"
+        "maxSize": "max size of {{size}}",
+        "failedToUpdate":"Failed to update"
     },
     "texts": {
         "singIn": "Sign in to your account",
