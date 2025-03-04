@@ -192,7 +192,7 @@
         "de": "German"
     },
     "ContactPointTypeEnum": {
-        "PHONE": "Phone numbe",
+        "PHONE": "Phone number",
         "EMAIL": "Email Address",
         "HOME_PHONE": "Home phone number",
         "RELATIVE_PHONE": "Relative phone number",
