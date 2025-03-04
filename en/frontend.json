@@ -80,7 +80,8 @@
         "dateOfBirth": "Date Of Birth",
         "phoneNumber": "Phone number",
         "homePhone": "Home phone number",
-        "relativePhone": "Relative phone number"
+        "relativePhone": "Relative phone number",
+        "enterPhone":"Enter phone number"
     },
     "buttons": {
         "login": "Sign in",
@@ -101,8 +102,7 @@
         "back": "Back",
         "done": "Done",
         "delete": "Delete",
-        "deleteEvent": "Delete Event",
-        "enterPhone":"Enter phone number"
+        "deleteEvent": "Delete Event"
     },
     "validator": {
         "required": "Required",
