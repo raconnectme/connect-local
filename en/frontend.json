@@ -78,7 +78,23 @@
         "jobTitle": "Job Title",
         "department": "Department",
         "dateOfBirth": "Date Of Birth",
-        "enterPhone":"Enter phone number"
+        "enterPhone": "Enter phone number",
+        "shiftPreferencies": "Shift preferencies",
+        "shiftName": "Shift name",
+        "siteName": "Site name",
+        "siteEquipmentName": "Equipment name",
+        "shiftStart": "Shift start date",
+        "shiftEnd": "Shift end date"
+    },
+    "days": {
+        "holiday": "Holiday",
+        "monday": "Monday",
+        "tuesday": "Tuesday",
+        "wednesday": "Wednesday",
+        "thursday": "Thursday",
+        "friday": "Friday",
+        "saturday": "Saturday",
+        "sunday": "Sunday"
     },
     "buttons": {
         "login": "Sign in",
@@ -100,7 +116,7 @@
         "done": "Done",
         "delete": "Delete",
         "deleteEvent": "Delete Event",
-        "discard":"Discard changes"
+        "discard": "Discard changes"
     },
     "validator": {
         "required": "Required",
@@ -116,7 +132,7 @@
         "fileSize": "File size should not exceed {{size}}",
         "allowedTypes": "Allowed types {{types}}",
         "maxSize": "max size of {{size}}",
-        "failedToUpdate":"Failed to update"
+        "failedToUpdate": "Failed to update"
     },
     "texts": {
         "singIn": "Sign in to your account",
