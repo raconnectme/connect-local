@@ -99,7 +99,8 @@
         "back": "Back",
         "done": "Done",
         "delete": "Delete",
-        "deleteEvent": "Delete Event"
+        "deleteEvent": "Delete Event",
+        "discard":"Discard changes"
     },
     "validator": {
         "required": "Required",
