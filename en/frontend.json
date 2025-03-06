@@ -85,8 +85,9 @@
         "siteEquipmentName": "Equipment name",
         "shiftStart": "Shift start date",
         "shiftEnd": "Shift end date",
-        "active":"Active",
-        "view":"View"
+        "active": "Active",
+        "inactive": "In Active",
+        "view": "View"
     },
     "days": {
         "holiday": "Holiday",
@@ -118,7 +119,8 @@
         "done": "Done",
         "delete": "Delete",
         "deleteEvent": "Delete Event",
-        "discard": "Discard changes"
+        "discard": "Discard changes",
+        "apply": "Apply"
     },
     "validator": {
         "required": "Required",
