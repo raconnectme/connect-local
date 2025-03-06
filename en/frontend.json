@@ -120,7 +120,8 @@
         "delete": "Delete",
         "deleteEvent": "Delete Event",
         "discard": "Discard changes",
-        "apply": "Apply"
+        "apply": "Apply",
+        "newShift":"New shift" 
     },
     "validator": {
         "required": "Required",
