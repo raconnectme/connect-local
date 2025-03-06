@@ -87,7 +87,8 @@
         "shiftEnd": "Shift end date",
         "active": "Active",
         "inactive": "In Active",
-        "view": "View"
+        "view": "View",
+        "list":"List"
     },
     "days": {
         "holiday": "Holiday",
