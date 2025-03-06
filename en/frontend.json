@@ -84,7 +84,9 @@
         "siteName": "Site name",
         "siteEquipmentName": "Equipment name",
         "shiftStart": "Shift start date",
-        "shiftEnd": "Shift end date"
+        "shiftEnd": "Shift end date",
+        "active":"Active",
+        "view":"View"
     },
     "days": {
         "holiday": "Holiday",
@@ -148,7 +150,8 @@
         "codeSentDetails": "We've sent a 6-digit confirmation email to your email: {{email}}. Please enter the code in below box to verify your email.",
         "noCode": "Don’t have a code? ",
         "resendCode": "Resend code",
-        "xcharacters": "{{x}}+ characters"
+        "xcharacters": "{{x}}+ characters",
+        "deleteItems": " Are you sure want to delete <strong> {{count}} </strong> items?"
     },
     "alerts": {
         "genericError": "Something went wrong",
