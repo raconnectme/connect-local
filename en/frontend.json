@@ -89,7 +89,9 @@
         "inactive": "In Active",
         "view": "View",
         "list":"List",
-        "status":"Status"
+        "status":"Status",
+        "absenceStart": "Absence start date",
+        "absencetEnd": "Absence end date"
     },
     "days": {
         "holiday": "Holiday",
@@ -123,7 +125,8 @@
         "deleteEvent": "Delete Event",
         "discard": "Discard changes",
         "apply": "Apply",
-        "newShift":"New shift" 
+        "newShift":"New shift" ,
+        "newAbsence":"New absence" 
     },
     "validator": {
         "required": "Required",
