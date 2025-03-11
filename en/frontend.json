@@ -88,10 +88,12 @@
         "active": "Active",
         "inactive": "In Active",
         "view": "View",
-        "list":"List",
-        "status":"Status",
+        "list": "List",
+        "status": "Status",
         "absenceStart": "Absence start date",
-        "absencetEnd": "Absence end date"
+        "absencetEnd": "Absence end date",
+        "all":"All",
+        "unread":"Unread"
     },
     "days": {
         "holiday": "Holiday",
@@ -125,8 +127,11 @@
         "deleteEvent": "Delete Event",
         "discard": "Discard changes",
         "apply": "Apply",
-        "newShift":"New shift" ,
-        "newAbsence":"New absence" 
+        "newShift": "New shift",
+        "newAbsence": "New absence",
+        "accept": "Accept",
+        "decline": "Decline",
+        "reply": "Reply"
     },
     "validator": {
         "required": "Required",
